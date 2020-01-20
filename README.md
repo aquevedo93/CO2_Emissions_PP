@@ -4,7 +4,7 @@ Throughout the summer of 2019, I was a Data Science Intern at the World Resource
 
 ## Web Scraping 
 
-Python scripts using web scraping techniques, including packages such as `beautifulsoup4`, to automate data extraction, transformation, and integration into WRIs Global Power Plant Database. Web scraped over 40,000 data points on CO2 emissions at the power plant level from multiple countries.
+Python scripts using web scraping techniques, including packages such as `bs4` and `re`, to automate data extraction, transformation, and integration into WRIs Global Power Plant Database. Web scraped over 40,000 data points on CO2 emissions at the power plant level from multiple countries.
 
 Sample Jupyter Notebooks included: 
 * Australia 
