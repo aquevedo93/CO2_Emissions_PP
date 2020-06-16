@@ -7,9 +7,14 @@ Throughout the summer of 2019, I was a Data Science Intern at the World Resource
 Python scripts using web scraping techniques, including packages such as `bs4` and `re`, to automate data extraction, transformation, and integration into WRIs Global Power Plant Database. Web scraped over 40,000 data points on CO2 emissions at the power plant level from multiple countries.
 
 Sample Jupyter Notebooks included: 
-* Australia 
-* European Union
+* Australia (`australia_dataset_parsing.ipynb`)
+* European Union (`JRC_Power_Plants.ipynb`)
+
+Countries scraped but not included in sample:
+* United States 
+* Canada
+* India 
 
 ## Machine Learning Models 
 
-Machine learning algorithms to predict CO2 emissions for all thermal power plants world- wide using the data previously extracted. Using a min-max scaled dataset, achieved a coefficient of determination of 0.975 and mean squared error of 0.000171 on the test set.
+`co2_prediction_models.ipynb`: Machine learning algorithms to predict CO2 emissions for all thermal power plants world- wide using the data previously extracted. Using a min-max scaled dataset, achieved a coefficient of determination of 0.975 and mean squared error of 0.000171 on the test set.
