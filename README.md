@@ -1,6 +1,6 @@
 # CO2 Emissions at the Power Plant Level
 
-Throughout the summer of 2019, I was a Data Science Intern at the World Resources Institute (WRI)’s Climate Program supporting Power Explorer, a project seeking to provide open access to global data on power production and its impacts. This repository contains some sample code from the work I produced; the full codebase will be available open-source in the near future.
+Throughout the summer of 2019, I was a Data Science Intern at the World Resources Institute (WRI)’s Climate Program supporting Power Explorer, a project seeking to provide open access to global data on power production and its impacts. This repository contains some sample code from the work I produced. The full codebase will be available open-source in the near future.
 
 ## Web Scraping 
 
